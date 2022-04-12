@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">A passinate about web development🌟.</h3>
+<h3 align="center">A passionate about web development🌟.</h3>
 
 <br>
 <p>
