@@ -68,10 +68,6 @@ I'm a MERN Developer 🚀 who is Passionate about coding and strongly interested
          alt="redux" width="40" height="40" margin-right="5px" />
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-         alt="mysql" width="40" height="40" margin-right="5px"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
          alt="mongoDb" width="40" height="40" margin-right="5px"/>
   </a>
@@ -79,9 +75,9 @@ I'm a MERN Developer 🚀 who is Passionate about coding and strongly interested
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" 
          alt="materialui" width="40" height="40" margin-right="5px"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
-        alt="express" width="40" height="40" margin-right="5px" />
+  <a href="https://python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" margin-right="5px"/> 
   </a>
   
 </p>
