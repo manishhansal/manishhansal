@@ -16,7 +16,7 @@ I'm a MERN Developer 🚀 who is Passionate about coding and strongly interested
 
 - ⚡ I’m looking to collaborate with other content creators;
 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/16Llc2SCPIcaQqSTLpa6C2eCaMAWVprZ5?usp=sharing)
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/16Llc2SCPIcaQqSTLpa6C2eCaMAWVprZ5?usp=share_link)
 
 - 📫 How to reach me **manishhansalmeh@gmail.com**
 <br>
