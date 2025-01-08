@@ -6,8 +6,7 @@
 
 <br>
 <p>
-I'm a MERN Developer 🚀 who is Passionate about coding and strongly interested in obtaining a Software Developer position to work on enhancing the product experience. 
-  I enjoy working with ReactJS, Redux and CSS on the fronted, NodeJS and Express on the backend to build single page application.
+I'm an experienced Software Developer passionate about building innovative and efficient solutions that make a difference. With expertise in full-stack development, I specialize in creating scalable and user-friendly web applications.
 </p>
 
 <h3>My personal stuffs</h3>
@@ -19,7 +18,7 @@ I'm a MERN Developer 🚀 who is Passionate about coding and strongly interested
 
 - ⚡ I’m looking to collaborate with other content creators;
 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/16Llc2SCPIcaQqSTLpa6C2eCaMAWVprZ5?usp=share_link)
+- :thinking: I’m currently open for: a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/16Llc2SCPIcaQqSTLpa6C2eCaMAWVprZ5?usp=share_link)
 
 - 📫 How to reach me **manishhansalmeh@gmail.com**
 <br>
