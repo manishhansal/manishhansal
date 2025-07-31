@@ -18,7 +18,7 @@ I'm an experienced Software Developer passionate about building innovative and e
 
 - ⚡ I’m looking to collaborate with other content creators;
 
-- :thinking: I’m currently open for: a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/16Llc2SCPIcaQqSTLpa6C2eCaMAWVprZ5?usp=share_link)
+- :thinking: I’m currently open for: a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1rwmPFUQJodDfcFIRwneTQMcJE6Ohw5cL/view?usp=sharing)
 
 - 📫 How to reach me **manishhansalmeh@gmail.com**
 <br>
