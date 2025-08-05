@@ -6,7 +6,7 @@
 
 <br>
 <p>
-I'm an experienced Software Developer passionate about building innovative and efficient solutions that make a difference. With expertise in full-stack development, I specialize in creating scalable and user-friendly web applications.
+Backend-focused Full Stack Engineer with 3.5+ years of experience building scalable web applications and secure APIs using Node.js, Express, MongoDB, PostgreSQL, and AWS. Strong background in RESTful API design, microservices, cloud deployments, and containerization (Docker). Skilled in debugging, performance optimization, and implementing authentication/authorization mechanisms. Adept at collaborating across teams to deliver production-grade solutions.
 </p>
 
 <h3>My personal stuffs</h3>
@@ -45,7 +45,7 @@ I'm an experienced Software Developer passionate about building innovative and e
   <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
  </p>
  
- <p align="center"><img alt="Gourab Mishra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishhansal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />   
+ <p align="center"><img alt="Manish Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishhansal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />   
 </p>
 
 <br>
