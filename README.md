@@ -6,7 +6,7 @@
 
 <br>
 <p>
-Backend-focused Full Stack Engineer with 3.5+ years of experience building scalable web applications and secure APIs using Node.js, Express, MongoDB, PostgreSQL, and AWS. Strong background in RESTful API design, microservices, cloud deployments, and containerization (Docker). Skilled in debugging, performance optimization, and implementing authentication/authorization mechanisms. Adept at collaborating across teams to deliver production-grade solutions.
+Backend-focused Full Stack Engineer with 3.5+ years of experience building scalable web applications and secure APIs using Node.js, TypeScript, Express, MongoDB, PostgreSQL, and AWS. Strong background in RESTful API design, microservices, cloud deployments, and containerization (Docker). Skilled in debugging, performance optimization, and implementing authentication/authorization mechanisms. Adept at collaborating across teams to deliver production-grade solutions.
 </p>
 
 <h3>My personal stuffs</h3>
