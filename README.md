@@ -16,8 +16,6 @@ Backend-focused Full Stack Engineer with 3+ years of experience building scalabl
 
 - 🌱  I’m currently exploring and learning Web Development;
 
-- ⚡ I’m looking to collaborate with other content creators;
-
 - :thinking: I’m currently open for: a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1OH66l2CyOGr8gD6ReOgyQnQkAFD4WQV5/view?usp=sharing)
 
 - 📫 How to reach me **manishhansalmeh@gmail.com**
