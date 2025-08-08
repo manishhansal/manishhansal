@@ -37,6 +37,14 @@ Backend-focused Full Stack Engineer with 3+ years of experience building scalabl
 </p>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 🚀 Languages and Tools: 
  <p align="center" >
@@ -46,6 +54,7 @@ Backend-focused Full Stack Engineer with 3+ years of experience building scalabl
  <p align="center"><img alt="Manish Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishhansal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />   
 </p>
 
+<br>
 <br>
 
 ## 📊 My Github Stats:
